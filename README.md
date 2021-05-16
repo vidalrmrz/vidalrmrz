@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vidalrmrz
+- 👀 I’m interested in learning about Developing and all the work we could do in IoT
+- 🌱 I’m currently learning Spring(Kotlin) to have a better understanding of what we could do combining Android and Backend
+- 💞️ I’m looking to collaborate on anything IoT related, even backend, frontend, middleware or OS. (That last one will be pretty amazing but I have 0 to nothing experience)
+- 📫 You can reach me by [email](mailto:vidaljramirez@gmail.com) or in my [linkedIn](https://www.linkedin.com/in/vidal-javier-ramirez-mendoza-23737482)
